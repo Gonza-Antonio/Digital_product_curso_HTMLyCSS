@@ -235,6 +235,12 @@ color: var(--green-color);
 text-decoration: underline;
 }
 
+/* ------------------------------------------------------Faqs */
+
+.faqs_text {
+margin-left: 140px;
+}
+
 
 /*body, nav, .main_section, .products, .product, .content, 
 .main_btn, footer, footer a, .beneficios,
